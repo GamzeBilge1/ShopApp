@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\bin\Debug\net8.0\OnlineShopApp.Data.deps.json
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\bin\Debug\net8.0\OnlineShopApp.Data.runtimeconfig.json
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\bin\Debug\net8.0\OnlineShopApp.Data.dll
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\bin\Debug\net8.0\OnlineShopApp.Data.pdb
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.sourcelink.json
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.dll
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\refint\OnlineShopApp.Data.dll
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.pdb
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\OnlineShopApp.Data.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Data\obj\Debug\net8.0\ref\OnlineShopApp.Data.dll

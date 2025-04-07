@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\filters\\timecontrolfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\filters\\timecontrolfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\onlineshopapp.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\onlineshopapp.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\updateproductquantityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\updateproductquantityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\stockupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\stockupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\models\\addorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\models\\addorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\middlewares\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\middlewares\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\middlewares\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\middlewares\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\jwt\\jwtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\jwt\\jwtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\jwt\\jwtclaimnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\jwt\\jwtclaimnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\entities\\settingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\entities\\settingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\entities\\orderproductentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\entities\\orderproductentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\context\\onlineshopappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\context\\onlineshopappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\types\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\types\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\types\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\types\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\user\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\user\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\setting\\settingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\setting\\settingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\setting\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\setting\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\product\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\product\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\order\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\order\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\order\\dtos\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\order\\dtos\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\order\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\order\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\order\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\order\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\order\\dtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\order\\dtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\product\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\product\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\dataprotection\\idataprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\dataprotection\\idataprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\dataprotection\\dataprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\dataprotection\\dataprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\user\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\user\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\user\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\user\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\product\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\product\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\operations\\product\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\operations\\product\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\migrations\\20250404205607_addphonenumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\migrations\\20250404205607_addphonenumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.business\\onlineshopapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B868FF20-3E55-460D-9CBA-C7EB947C4A58}|OnlineShopApp.Business\\OnlineShopApp.Business.csproj|solutionrelative:onlineshopapp.business\\onlineshopapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.webapi\\onlineshopapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27E60F79-17AF-4772-9DD7-F636D519AA92}|OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj|solutionrelative:onlineshopapp.webapi\\onlineshopapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\migrations\\20250402153020_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\migrations\\20250402153020_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\migrations\\20250402151541_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\migrations\\20250402151541_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\migrations\\20250404210258_validationphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\migrations\\20250404210258_validationphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|c:\\users\\gamze\\source\\repos\\onlineshopapp\\onlineshopapp.data\\migrations\\20250403220745_settingentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E0766-9D20-463F-84D0-31F8372FC010}|OnlineShopApp.Data\\OnlineShopApp.Data.csproj|solutionrelative:onlineshopapp.data\\migrations\\20250403220745_settingentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineShopApp.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\OnlineShopApp.WebApi.http",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\OnlineShopApp.WebApi.http",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\OnlineShopApp.WebApi.http",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\OnlineShopApp.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-07T21:48:21.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductQuantityRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\UpdateProductQuantityRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\UpdateProductQuantityRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\UpdateProductQuantityRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\UpdateProductQuantityRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:04:37.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\UpdateProductRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:43:40.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Program.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:19:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeControlFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Filters\\TimeControlFilter.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Filters\\TimeControlFilter.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Filters\\TimeControlFilter.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Filters\\TimeControlFilter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:56:09.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\UpdateOrderRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\UpdateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\UpdateOrderRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\UpdateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:35:58.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\appsettings.json",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T14:47:29.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\StockUpdateRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\StockUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\StockUpdateRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\StockUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:14:30.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:05:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:55:58.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:37:36.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\AddProductRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\AddProductRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\AddProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:39:56.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\AddOrderRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Models\\AddOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Models\\AddOrderRequest.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Models\\AddOrderRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:49:48.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:48:41.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaintenanceMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:42:01.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:34:43.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Jwt\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Jwt\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Jwt\\JwtHelper.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Jwt\\JwtHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:38:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Jwt\\JwtDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Jwt\\JwtDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Jwt\\JwtDto.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Jwt\\JwtDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:38:51.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtClaimNames.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Jwt\\JwtClaimNames.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Jwt\\JwtClaimNames.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Jwt\\JwtClaimNames.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Jwt\\JwtClaimNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:48:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:08:59.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowC4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:29:27.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAwwHcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:36:22.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:03:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:08:03.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:07:29.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:52:21.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:52:05.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Enums\\UserRole.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:33:46.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:22:29.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SettingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\SettingEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Entities\\SettingEntity.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\SettingEntity.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Entities\\SettingEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:04:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Entities\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Entities\\ProductEntity.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:25:05.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\OrderProductEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Entities\\OrderProductEntity.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\OrderProductEntity.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Entities\\OrderProductEntity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:26:06.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Entities\\OrderEntity.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:25:36.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:24:09.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OnlineShopAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Context\\OnlineShopAppDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Context\\OnlineShopAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Context\\OnlineShopAppDbContext.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Context\\OnlineShopAppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:40:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ServiceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Types\\ServiceMessage.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Types\\ServiceMessage.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Types\\ServiceMessage.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Types\\ServiceMessage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:20:35.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Types\\PagedResult.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Types\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Types\\PagedResult.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Types\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:49:11.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\UserManager.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\User\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\UserManager.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\User\\UserManager.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:10:36.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\IUserService.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:10:21.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:13:02.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SettingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Setting\\SettingManager.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Setting\\SettingManager.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Setting\\SettingManager.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Setting\\SettingManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:10:11.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ISettingService.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Setting\\ISettingService.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Setting\\ISettingService.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Setting\\ISettingService.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Setting\\ISettingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:09:49.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\ProductManager.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Product\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\ProductManager.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Product\\ProductManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwMcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:30:28.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\IProductService.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Product\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\IProductService.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:30:06.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\OrderManager.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Order\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\OrderManager.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Order\\OrderManager.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAkwJUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:41:16.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Order\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\IOrderService.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Order\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:40:39.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\UpdateOrderDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\UpdateOrderDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\UpdateOrderDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\UpdateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:36:31.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:45:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:44:48.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AddOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\AddOrderDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\AddOrderDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Order\\Dtos\\AddOrderDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Order\\Dtos\\AddOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:55:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:56:33.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IDataProtection.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\DataProtection\\IDataProtection.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\DataProtection\\IDataProtection.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\DataProtection\\IDataProtection.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\DataProtection\\IDataProtection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:15:15.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DataProtection.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\DataProtection\\DataProtection.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\DataProtection\\DataProtection.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\DataProtection\\DataProtection.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\DataProtection\\DataProtection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:15:31.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:39:58.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:39:50.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:53:57.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "OnlineShopApp.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:42:12.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250404210258_validationPhone.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250404210258_validationPhone.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Migrations\\20250404210258_validationPhone.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250404210258_validationPhone.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Migrations\\20250404210258_validationPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:02:58.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250404205607_AddPhoneNumberValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250404205607_AddPhoneNumberValidation.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Migrations\\20250404205607_AddPhoneNumberValidation.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250404205607_AddPhoneNumberValidation.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Migrations\\20250404205607_AddPhoneNumberValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:56:07.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OnlineShopApp.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\OnlineShopApp.Business.csproj",
+              "RelativeDocumentMoniker": "OnlineShopApp.Business\\OnlineShopApp.Business.csproj",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Business\\OnlineShopApp.Business.csproj",
+              "RelativeToolTip": "OnlineShopApp.Business\\OnlineShopApp.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T20:41:45.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250403220745_SettingEntityAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250403220745_SettingEntityAdded.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Migrations\\20250403220745_SettingEntityAdded.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250403220745_SettingEntityAdded.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Migrations\\20250403220745_SettingEntityAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:07:45.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OnlineShopApp.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj",
+              "RelativeDocumentMoniker": "OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj",
+              "RelativeToolTip": "OnlineShopApp.WebApi\\OnlineShopApp.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T18:29:58.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250402153020_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250402153020_Initial.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Migrations\\20250402153020_Initial.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250402153020_Initial.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Migrations\\20250402153020_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:30:20.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250402151541_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250402151541_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OnlineShopApp.Data\\Migrations\\20250402151541_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\OnlineShopApp\\OnlineShopApp.Data\\Migrations\\20250402151541_InitialCreate.cs",
+              "RelativeToolTip": "OnlineShopApp.Data\\Migrations\\20250402151541_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:15:41.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

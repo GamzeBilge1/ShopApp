@@ -1,0 +1,16 @@
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\bin\Debug\net8.0\OnlineShopApp.Business.deps.json
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\bin\Debug\net8.0\OnlineShopApp.Business.dll
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\bin\Debug\net8.0\OnlineShopApp.Business.pdb
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\bin\Debug\net8.0\OnlineShopApp.Data.dll
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\bin\Debug\net8.0\OnlineShopApp.Data.pdb
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.csproj.AssemblyReference.cache
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.sourcelink.json
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineSh.CFA47823.Up2Date
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.dll
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\refint\OnlineShopApp.Business.dll
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\OnlineShopApp.Business.pdb
+C:\Users\Gamze\source\repos\OnlineShopApp\OnlineShopApp.Business\obj\Debug\net8.0\ref\OnlineShopApp.Business.dll
