@@ -129,7 +129,9 @@ OrderEntity
 | MaintenenceMode  | bool    |
 
 ---
+## 🗂 Veritabanı Diyagramı
 
+![Veritabanı Diyagramı](db-diagram.png)
 
 
 ## 🔒 Kimlik Doğrulama & Yetkilendirme
